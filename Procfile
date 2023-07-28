@@ -1,0 +1,1 @@
+web: gunicorn homecare_services.wsgi --log-file -
